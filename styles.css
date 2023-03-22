@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-div {
+.main {
 	background: purple;
 	width: 200px;
 	color: white;
@@ -8,6 +8,6 @@ div {
 	padding: 10px;
 }
 
-h2 {
+#heading {
 	font-size: 20px;
 }
